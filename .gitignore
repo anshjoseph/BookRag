@@ -1,0 +1,14 @@
+# python envs
+.conda/
+.venv/
+
+# __pycache__
+__pycache__/
+
+# rag storage
+chroma_db
+*.pkl
+*.pdf
+
+# ide
+.vscode/
